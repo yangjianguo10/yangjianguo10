@@ -4,6 +4,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-45b8d8?style=flat-square&logo=SQL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> 
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-007ACC?style=flat-square&logo=TensorFlow&logoColor=white" />
