@@ -1,8 +1,14 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I ’m Nut</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I 'm Nut.Nice to see you.</h1>
 <h1 align="center">Docker，野生工程🦁，📷摄影爱好者，曾参演著名电影《观众》</h1>
 
-
+<h3>Things I code with</h3>
+<p>
+  <img alt="python" src="https://img.shields.io/badge/-python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  
+  
+  
+  <img alt="VBA" src="https://img.shields.io/badge/-VBA-8DD6F9?style=flat-square&logo=VBA&logoColor=white" /> 
 <!--
 **yangjianguo10/yangjianguo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
