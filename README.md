@@ -1,6 +1,6 @@
 ### <h1 align="center">你好呀👏I ’m Nut</h1>
-### <h1 align="center">writer，野生工程🦁，中国年度知名干饭人，Welcome to my planet 🌏</h1>
-https://img.shields.io/badge/python-3.9-green
+### <h1 align="center">writer，野生工程🦁，📷**摄影爱好者**，中国年度知名干饭人</h1>
+
 
 <!--
 **yangjianguo10/yangjianguo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
