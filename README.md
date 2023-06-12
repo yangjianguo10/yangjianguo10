@@ -1,5 +1,5 @@
 ### <h1 align="center">你好呀👏I ’m Nut</h1>
-### <h1 align="center">writer，野生工程🦁，📷**摄影爱好者**，中国年度知名干饭人</h1>
+### <h1 align="center">writer，野生工程🦁，📷**摄影爱好者**，曾参演著名电影《观众》</h1>
 
 
 <!--
