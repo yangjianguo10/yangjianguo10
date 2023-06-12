@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I ’m Nut</h1>
-<h1 align="center">writer，野生工程🦁，📷**摄影爱好者**，曾参演著名电影《观众》</h1>
+<h1 align="center">Docker，野生工程🦁，📷摄影爱好者，曾参演著名电影《观众》</h1>
 
 
 <!--
