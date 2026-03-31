@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I 'm Nut.Nice to see you.</h1>
-<h1 align="center">Docker，野生工程🦁，📷摄影爱好者，曾参演著名电影《观众》</h1>
+<h1 align="center">Docker，Wild Engineer🦁，📷Photography enthusiasts，I once acted in the famous film 《The Audience》</h1>
 
 <h3>Things I code with</h3>
 <p>
